@@ -8,3 +8,4 @@
 han254/han254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![Peter's github stats](https://github-readme-stats.vercel.app/api?username=han254)](https://github.com/han254/github-readme-stats)
