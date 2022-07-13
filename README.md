@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @han254
+- 👋 Hi, I’m Peter.
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Java for Android Development.
 - 💞️ I’m looking to collaborate on ...
